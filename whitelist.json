@@ -1,69 +1,69 @@
 {
-    "5566701102": {
-        "Superuma": true,
-        "A-Train": true,
-        "Access": {
-            "TabletPermission": true,
-            "SpawnHorse": true
-        },
-        "CommandAccess": {
-            "Manager": true
-        }
+  "5566701102": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
     },
-    "1078661928": {
-        "Superuma": true,
-        "A-Train": true,
-        "InvincibleFrontier": false,
-        "KJ": true,
-        "Access": {
-            "TabletPermission": true,
-            "SpawnHorse": true
-        },
-        "CommandAccess": {
-            "Owner": true
-        }
-    },
-    "3429719545": {
-        "Superuma": true,
-        "A-Train": true,
-        "Access": {
-            "TabletPermission": true,
-            "SpawnHorse": true
-        },
-        "CommandAccess": {
-            "Owner": true
-        }
-    },
-    "2911536154": {
-        "Superuma": true,
-        "A-Train": true,
-        "Access": {
-            "TabletPermission": true,
-            "SpawnHorse": true
-        },
-        "CommandAccess": {
-            "Owner": true
-        }
-    },
-    "2729893084": {
-        "Superuma": true,
-        "A-Train": true,
-        "Access": {
-            "TabletPermission": true,
-            "SpawnHorse": true
-        },
-        "CommandAccess": {
-            "Owner": true
-        }
-    },
-    "1629380782": {
-        "Superuma": true,
-        "A-Train": true,
-        "Access": {
-            "TabletPermission": true
-        },
-        "CommandAccess": {
-            "Developer": true
-        }
+    "CommandAccess": {
+      "Manager": true
     }
+  },
+  "1078661928": {
+    "Superuma": true,
+    "A-Train": true,
+    "InvincibleFrontier": false,
+    "KJ": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
+  "3429719545": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
+  "2911536154": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
+  "2729893084": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
+  "1629380782": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true
+    },
+    "CommandAccess": {
+      "Developer": true
+    }
+  }
 }
