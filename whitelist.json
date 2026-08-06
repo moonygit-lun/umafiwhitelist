@@ -3,8 +3,11 @@
         "Superuma": true,
         "A-Train": true,
         "Access": {
-            "Tablet": true,
+            "TabletPermission": true,
             "Cmdr": "Owner"
+        },
+        "TabletAccess": {
+            "Manager": true
         }
     },
     "1078661928": {
