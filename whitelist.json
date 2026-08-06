@@ -25,6 +25,7 @@
     },
     "3429719545": {
         "Superuma": true,
+        "A-Train": true,
         "Access": {
             "TabletPermission": true,
             "SpawnHorse": true
@@ -35,6 +36,7 @@
     },
     "2911536154": {
         "Superuma": true,
+        "A-Train": true,
         "Access": {
             "TabletPermission": true,
             "SpawnHorse": true
