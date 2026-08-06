@@ -14,6 +14,13 @@
         "Superuma": true,
         "A-Train": true,
         "InvincibleFrontier": false,
-        "KJ": true
+        "KJ": true,
+        "Access": {
+            "TabletPermission": true,
+            "SpawnHorse": true
+        },
+        "CommandAccess": {
+            "Owner": true
+        }
     }
 }
