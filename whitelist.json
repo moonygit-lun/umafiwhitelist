@@ -60,7 +60,7 @@
         "Superuma": true,
         "A-Train": true,
         "Access": {
-            "TabletPermission": true,
+            "TabletPermission": true
         },
         "CommandAccess": {
             "Developer": true
