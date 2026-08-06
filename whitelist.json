@@ -2,7 +2,10 @@
     "5566701102": {
         "Superuma": true,
         "A-Train": true,
-        "Owner": true
+        "Access": {
+            "Tablet": true,
+            "Cmdr": "Owner"
+        }
     },
     "1078661928": {
         "Superuma": true,
