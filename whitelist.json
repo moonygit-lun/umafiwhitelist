@@ -28,7 +28,6 @@
         "A-Train": true,
         "Access": {
             "TabletPermission": true,
-            "SpawnHorse": true
         },
         "CommandAccess": {
             "Owner": true
@@ -39,7 +38,6 @@
         "A-Train": true,
         "Access": {
             "TabletPermission": true,
-            "SpawnHorse": true
         },
         "CommandAccess": {
             "Owner": true
