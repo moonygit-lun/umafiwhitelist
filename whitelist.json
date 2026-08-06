@@ -44,5 +44,16 @@
         "CommandAccess": {
             "Owner": true
         }
+    },
+    "2729893084": {
+         "Superuma": true,
+        "A-Train": true,
+        "Access": {
+            "TabletPermission": true,
+            "SpawnHorse": true
+        },
+        "CommandAccess": {
+            "Owner": true
+        }
     }
 }
