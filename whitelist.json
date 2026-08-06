@@ -9,5 +9,6 @@
         "A-Train": true,
         "InvincibleFrontier": false,
         "KJ": true
+        "Owner": true
     },
 }
