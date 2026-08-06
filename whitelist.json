@@ -3,7 +3,7 @@
         "Superuma": true,
         "A-Train": true,
         "Access": {
-            "TabletPermission": true,
+            "TabletPermission": true
         },
         "CommandAccess": {
             "Manager": true
@@ -13,6 +13,6 @@
         "Superuma": true,
         "A-Train": true,
         "InvincibleFrontier": false,
-        "KJ": true,
-    },
+        "KJ": true
+    }
 }
