@@ -1,8 +1,13 @@
 {
+    "5566701102": {
+        "Superuma": true,
+        "A-Train": true,
+        "Owner": true
+    },
     "1078661928": {
         "Superuma": true,
         "A-Train": true,
         "InvincibleFrontier": false,
         "KJ": true
-    }
+    },
 }
