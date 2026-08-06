@@ -4,9 +4,8 @@
         "A-Train": true,
         "Access": {
             "TabletPermission": true,
-            "Cmdr": "Owner"
         },
-        "TabletAccess": {
+        "CommandAccess": {
             "Manager": true
         }
     },
@@ -14,7 +13,6 @@
         "Superuma": true,
         "A-Train": true,
         "InvincibleFrontier": false,
-        "KJ": true
-        "Owner": true
+        "KJ": true,
     },
 }
