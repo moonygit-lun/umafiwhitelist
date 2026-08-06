@@ -3,7 +3,8 @@
         "Superuma": true,
         "A-Train": true,
         "Access": {
-            "TabletPermission": true
+            "TabletPermission": true,
+            "SpawnHorse": true
         },
         "CommandAccess": {
             "Manager": true
