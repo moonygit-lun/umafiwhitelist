@@ -22,5 +22,25 @@
         "CommandAccess": {
             "Owner": true
         }
+    },
+    "3429719545": {
+        "Superuma": true,
+        "Access": {
+            "TabletPermission": true,
+            "SpawnHorse": true
+        },
+        "CommandAccess": {
+            "Owner": true
+        }
+    },
+    "2911536154": {
+        "Superuma": true,
+        "Access": {
+            "TabletPermission": true,
+            "SpawnHorse": true
+        },
+        "CommandAccess": {
+            "Owner": true
+        }
     }
 }
