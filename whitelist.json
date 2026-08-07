@@ -6,6 +6,9 @@
       "TabletPermission": true,
       "SpawnHorse": true
     },
+    "Titles": {
+      "Glonk": true
+    },
     "CommandAccess": {
       "Manager": true
     }
