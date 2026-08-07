@@ -48,6 +48,17 @@
       "Owner": true
     }
   },
+   "472575791": {
+    "Superuma": false,
+    "A-Train": false,
+    "Access": {
+      "TabletPermission": false,
+      "SpawnHorse": false
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
   "2729893084": {
     "Superuma": true,
     "A-Train": true,
@@ -59,6 +70,7 @@
       "Owner": true
     }
   },
+  
   "1629380782": {
     "Superuma": true,
     "A-Train": true,
