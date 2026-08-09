@@ -84,5 +84,14 @@
     "CommandAccess": {
       "Developer": true
     }
+  },
+
+  "230520276": {
+    "Access": {
+      "TabletPermission": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
   }
 }
