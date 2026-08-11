@@ -111,5 +111,19 @@
     "Access": {
       "TabletPermission": true
     }
-  }
+  },
+   "1452569908": {
+    "Superuma": true,
+    "A-Train": true,
+    "InvincibleFrontier": false,
+    "KJ": true,
+    "InDevelopmentCharacters": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
+    "CommandAccess": {
+      "Owner": true
+    }
+  },
 }
