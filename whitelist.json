@@ -128,5 +128,8 @@
     "CommandAccess": {
       "Owner": true
     }
+  },
+  "1589013613:" {
+    "Superuma": true
   }
 }
