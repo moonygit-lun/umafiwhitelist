@@ -96,8 +96,8 @@
     "Superuma": true,
     "A-Train": true
   },
-    "7208356029": {
-    "Superuma": true,
+  "7208356029": {
+    "Superuma": true
   },
   "561927632": {
     "Superuma": true,
@@ -115,7 +115,7 @@
       "TabletPermission": true
     }
   },
-   "1452569908": {
+  "1452569908": {
     "Superuma": true,
     "A-Train": true,
     "InvincibleFrontier": false,
