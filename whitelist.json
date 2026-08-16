@@ -99,6 +99,13 @@
       "Manager": true
     }
   },
+  "1160906001": {
+    "Superuma": true,
+    "A-Train": true,
+    "CommandAccess": {
+      "Manager": true
+    }
+  },
   "7208356029": {
     "Superuma": true
   },
