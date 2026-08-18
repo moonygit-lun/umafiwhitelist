@@ -149,6 +149,13 @@
   "1589013613": {
     "Superuma": true
   },
+  "1067233512": {
+    "Superuma": true,
+    "A-Train": true,
+    "CommandAccess": {
+      "Admin": true
+    }
+  },
   "1201771478": {
     "CommandAccess": {
       "Admin": true
