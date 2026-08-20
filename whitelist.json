@@ -95,8 +95,15 @@
   "7002646188": {
     "Superuma": true,
     "A-Train": true,
+    "InvincibleFrontier": false,
+    "KJ": true,
+    "InDevelopmentCharacters": true,
+    "Access": {
+      "TabletPermission": true,
+      "SpawnHorse": true
+    },
     "CommandAccess": {
-      "Manager": true
+      "Owner": true
     }
   },
   "1160906001": {
