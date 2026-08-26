@@ -95,6 +95,16 @@
       "Developer": true
     }
   },
+  "272540838": {
+    "Superuma": true,
+    "A-Train": true,
+    "Access": {
+      "TabletPermission": true
+    },
+    "CommandAccess": {
+      "Developer": true
+    }
+  },
   "230520276": {
     "Access": {
       "TabletPermission": true
