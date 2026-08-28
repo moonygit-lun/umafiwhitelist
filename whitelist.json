@@ -131,10 +131,6 @@
     "Superuma": true,
     "A-Train": true,
     "InDevelopmentCharacters": true,
-    "Access": {
-      "TabletPermission": true,
-      "SpawnHorse": true
-    },
     "CommandAccess": {
       "Manager": true
     }
