@@ -132,7 +132,7 @@
     "A-Train": true,
     "InDevelopmentCharacters": true,
     "CommandAccess": {
-      "Manager": true
+      "Admin": true
     }
   },
   "7208356029": {
