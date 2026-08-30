@@ -167,6 +167,12 @@
       "Admin": true
     }
   },
+   "1341452414": {
+    "Superuma": true,
+    "Access": {
+      "TabletPermission": true,
+    },
+  },
   "1201771478": {
     "CommandAccess": {
       "Admin": true
