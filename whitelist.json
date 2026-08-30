@@ -74,7 +74,7 @@
       "Owner": true
     }
   },
-   "561927632": {
+  "561927632": {
     "Superuma": true,
     "A-Train": true,
     "Access": {
@@ -170,8 +170,8 @@
   "1341452414": {
     "Superuma": true,
     "Access": {
-      "TabletPermission": true,
-    },
+      "TabletPermission": true
+    }
   },
   "1201771478": {
     "CommandAccess": {
