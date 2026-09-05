@@ -171,6 +171,9 @@
     "Superuma": true,
     "Access": {
       "TabletPermission": true
+    },
+    "CommandAccess": {
+      "Owner": true
     }
   },
   "1201771478": {
