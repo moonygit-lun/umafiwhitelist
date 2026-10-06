@@ -132,10 +132,13 @@
     "A-Train": true,
     "InDevelopmentCharacters": true,
     "Access": {
-      "TabletPermission": true
+      "TabletPermission": false
+    },
+    "Titles": {
+      "Admin": true
     },
     "CommandAccess": {
-      "Admin": true
+      "Manager": true
     }
   },
   "7208356029": {
