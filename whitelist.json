@@ -90,7 +90,7 @@
     "A-Train": true,
     "OGStyle": true,
     "Titles": {
-      "SeniorDeveloper"
+      "SeniorDeveloper": true
     },
     "Access": {
       "TabletPermission": true,
