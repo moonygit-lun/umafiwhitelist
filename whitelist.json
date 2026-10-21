@@ -147,7 +147,7 @@
     "A-Train": true,
     "InDevelopmentCharacters": true,
     "Access": {
-      "TabletPermission": false
+      "TabletPermission": true
     },
     "Titles": {
       "Admin": true
